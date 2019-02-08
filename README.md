@@ -1,2 +1,2 @@
 # AspNetCoreValidation
-Very simple example of form validation in asp.net core
+Form validation very simple example in asp.net core
